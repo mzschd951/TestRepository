@@ -1,3 +1,5 @@
 Git is a distributed version control system.
 Git is free software.
-my second updatethis is my first
+my second update
+this is my first
+this is my second
